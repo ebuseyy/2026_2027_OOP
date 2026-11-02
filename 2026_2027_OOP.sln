@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassEncapsulation", "Class
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassB", "ClassB\ClassB.csproj", "{BF3770FB-CBEA-438D-9AF8-E4EE9F003F47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassEncapsulationB", "ClassEncapsulationB\ClassEncapsulationB.csproj", "{8D0AC5D1-EA63-4137-A3E1-33A74CDFB56E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{BF3770FB-CBEA-438D-9AF8-E4EE9F003F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF3770FB-CBEA-438D-9AF8-E4EE9F003F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF3770FB-CBEA-438D-9AF8-E4EE9F003F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0AC5D1-EA63-4137-A3E1-33A74CDFB56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0AC5D1-EA63-4137-A3E1-33A74CDFB56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0AC5D1-EA63-4137-A3E1-33A74CDFB56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0AC5D1-EA63-4137-A3E1-33A74CDFB56E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassEncapsulation", "ClassEncapsulation\ClassEncapsulation.csproj", "{748F570B-792F-43F5-ADBE-01DF75B43973}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassB", "ClassB\ClassB.csproj", "{BF3770FB-CBEA-438D-9AF8-E4EE9F003F47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{748F570B-792F-43F5-ADBE-01DF75B43973}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{748F570B-792F-43F5-ADBE-01DF75B43973}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{748F570B-792F-43F5-ADBE-01DF75B43973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3770FB-CBEA-438D-9AF8-E4EE9F003F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3770FB-CBEA-438D-9AF8-E4EE9F003F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3770FB-CBEA-438D-9AF8-E4EE9F003F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3770FB-CBEA-438D-9AF8-E4EE9F003F47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
